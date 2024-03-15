@@ -7,6 +7,10 @@
 : https://pokemon-e927b.web.app/#/
 (takes some time to load)
 
+
+
+#Details
+
 The app can run in android, ios and web
 
 
