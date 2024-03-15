@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005980474313",
+    "project_id": "pokemon-e927b",
+    "storage_bucket": "pokemon-e927b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005980474313:android:e6d02f251e52ba9f2fa618",
+        "android_client_info": {
+          "package_name": "com.example.pokemons"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApyWN_4Mio0j39bxK58y1xmsUMQNkFmtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
